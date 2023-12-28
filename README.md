@@ -1,5 +1,4 @@
 # Introducing atmoCatcher
-_____________________________________________________
 
 > a low-cost tipping bucket rain gauge system adapted for standard atmospheric water harvesting collectors.
 
@@ -37,7 +36,7 @@ For building your own atmoCatcher, you will need the following materials:
 
  - PLA+ 3D printer filament (~$18USD/kg)
  - 3D printer
- - 3D printed parts (see [3Dfiles](/3dfiles))
+ - 3D printed parts (see [3Dfiles](./3dfiles))
  - PCB prototype board ($0.4USD/piece)
  - Cable (from $0.2USD/meter)
  - SP21 connector ($4USD/piece)
